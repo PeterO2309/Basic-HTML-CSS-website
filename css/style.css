@@ -1,0 +1,41 @@
+.jumbotron-3 {
+        position: relative;
+        background: #000 url("../images/wedding.jpg") center center;
+        width: 100%;
+        height: 100%;
+        background-size: cover;
+        color: #fff;
+}
+.card-img-top{
+    width: 100%;
+    height: 15vw;
+    object-fit:contain
+}
+
+.pad_top{
+    padding-top: 10px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: Kanit;
+}
+
+body {
+    font-family: Karma;
+}
+
+.img-height {
+    height: 296px;
+}
+
+.img-width {
+    width: 296px;
+}
+
+#img-swidth {
+    width=250px;
+}
+
+#margin-left {
+    margin-left: 200px;
+}
