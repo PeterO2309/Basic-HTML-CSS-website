@@ -49,8 +49,9 @@ row.
 - Use bootstrap pagination
 - Use bootstrap badges for the ‘new’ badge
 
+
 Fonts
-You are also required to choose two open source google fonts to implement on the webpages. One
+-You are also required to choose two open source google fonts to implement on the webpages. One
 font should be used for body text and one font should be used for headings. Choose fonts which suit
 the content of the website. Choose fonts that are suitably different so that the headings stand out.
 Ensure that the body text font is easy to read
